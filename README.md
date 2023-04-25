@@ -1,4 +1,3 @@
-# namli
 
 👋 Hi, My name is Özge!
 
